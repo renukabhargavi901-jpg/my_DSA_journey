@@ -2,4 +2,4 @@
 
 | Day | Date | Topic | Problems |
 |-----|------|--------|----------|
-| 01 | 2026-06-21 | HashMap + Prefix Sum | Subarray Sum Equals K |# my_DSA_journey
+| 01 | 2026-06-21 | HashMap + Prefix Sum + Counting Sort | Subarray Sum Equals K, Maximum Ice Cream Bars |

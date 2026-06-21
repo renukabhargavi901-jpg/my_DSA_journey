@@ -2,18 +2,27 @@
 
 Date: 2026-06-21
 
-## Problem Solved
-
-- Subarray Sum Equals K
-
-## Concepts
-
-- HashMap
+## Concepts Learned
 - Prefix Sum
-- Frequency Count
+- HashMap
+- Frequency Map
+- Counting Sort
+- Greedy
 
-## Time complexity analysis 
+## Problems Solved
 
-- Brute force approach O(n3)
-- Prefix sum approach O(n2)
-- Prefix_sum + hashing approach O(n)
+1. Subarray Sum Equals K (LeetCode 560)
+2. Maximum Ice Cream Bars (LeetCode 1833)
+
+## Time Complexities
+
+### Subarray Sum Equals K
+- Time: 
+- brute force approach : O(n3)
+- prefix_sum approach : O(n2)
+- prefix_sum+hashing : O(n)
+- Space: O(n)
+
+### Maximum Ice Cream Bars
+- Time: O(n + max(cost))
+- Space: O(max(cost))
